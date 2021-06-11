@@ -1,0 +1,220 @@
+16:53:58 testing accuracy after iteration 0: 10.47%
+16:54:02 testing accuracy after iteration 100: 25.12%
+16:54:05 testing accuracy after iteration 200: 37.22%
+
+16:54:08 train loss after iteration 250: 61.47%
+
+16:54:10 testing accuracy after iteration 300: 38.19%
+16:54:14 testing accuracy after iteration 400: 41.09%
+16:54:19 testing accuracy after iteration 500: 41.80%
+
+16:54:19 train loss after iteration 500: 53.83%
+
+16:54:22 testing accuracy after iteration 600: 38.46%
+16:54:25 testing accuracy after iteration 700: 41.45%
+
+16:54:28 train loss after iteration 750: 50.89%
+
+16:54:30 testing accuracy after iteration 800: 38.45%
+16:54:34 testing accuracy after iteration 900: 44.22%
+16:54:39 testing accuracy after iteration 1000: 44.76%
+
+16:54:39 train loss after iteration 1000: 48.66%
+
+16:54:42 testing accuracy after iteration 1100: 45.14%
+16:54:45 testing accuracy after iteration 1200: 43.43%
+
+16:54:48 train loss after iteration 1250: 46.51%
+
+16:54:50 testing accuracy after iteration 1300: 47.34%
+16:54:54 testing accuracy after iteration 1400: 47.66%
+16:54:59 testing accuracy after iteration 1500: 45.97%
+
+16:54:59 train loss after iteration 1500: 45.05%
+
+16:55:02 testing accuracy after iteration 1600: 45.52%
+16:55:06 testing accuracy after iteration 1700: 47.36%
+
+16:55:09 train loss after iteration 1750: 43.38%
+
+16:55:11 testing accuracy after iteration 1800: 47.46%
+16:55:14 testing accuracy after iteration 1900: 46.29%
+16:55:19 testing accuracy after iteration 2000: 48.32%
+
+16:55:19 train loss after iteration 2000: 41.92%
+
+16:55:22 testing accuracy after iteration 2100: 45.89%
+16:55:26 testing accuracy after iteration 2200: 49.26%
+
+16:55:29 train loss after iteration 2250: 41.01%
+
+16:55:31 testing accuracy after iteration 2300: 48.75%
+16:55:34 testing accuracy after iteration 2400: 49.32%
+16:55:39 testing accuracy after iteration 2500: 49.10%
+
+16:55:39 train loss after iteration 2500: 39.64%
+
+16:55:43 testing accuracy after iteration 2600: 49.32%
+16:55:46 testing accuracy after iteration 2700: 48.39%
+
+16:55:49 train loss after iteration 2750: 38.83%
+
+16:55:51 testing accuracy after iteration 2800: 48.11%
+16:55:54 testing accuracy after iteration 2900: 48.71%
+16:55:59 testing accuracy after iteration 3000: 50.08%
+
+16:55:59 train loss after iteration 3000: 37.45%
+
+16:56:03 testing accuracy after iteration 3100: 49.58%
+16:56:06 testing accuracy after iteration 3200: 50.17%
+
+16:56:09 train loss after iteration 3250: 36.58%
+
+16:56:11 testing accuracy after iteration 3300: 48.98%
+16:56:15 testing accuracy after iteration 3400: 48.60%
+16:56:20 testing accuracy after iteration 3500: 50.85%
+
+16:56:20 train loss after iteration 3500: 35.93%
+
+16:56:23 testing accuracy after iteration 3600: 49.35%
+16:56:27 testing accuracy after iteration 3700: 49.50%
+
+16:56:30 train loss after iteration 3750: 34.90%
+
+16:56:32 testing accuracy after iteration 3800: 49.26%
+16:56:35 testing accuracy after iteration 3900: 50.67%
+16:56:40 testing accuracy after iteration 4000: 51.59%
+
+16:56:40 train loss after iteration 4000: 34.16%
+
+16:56:43 testing accuracy after iteration 4100: 50.88%
+16:56:47 testing accuracy after iteration 4200: 51.38%
+
+16:56:50 train loss after iteration 4250: 32.84%
+
+16:56:52 testing accuracy after iteration 4300: 50.77%
+16:56:55 testing accuracy after iteration 4400: 51.27%
+16:57:00 testing accuracy after iteration 4500: 49.88%
+
+16:57:00 train loss after iteration 4500: 32.66%
+
+16:57:03 testing accuracy after iteration 4600: 50.75%
+16:57:07 testing accuracy after iteration 4700: 52.54%
+
+16:57:10 train loss after iteration 4750: 31.76%
+
+16:57:12 testing accuracy after iteration 4800: 51.29%
+16:57:15 testing accuracy after iteration 4900: 49.34%
+16:57:20 testing accuracy after iteration 5000: 50.70%
+
+16:57:20 train loss after iteration 5000: 30.92%
+
+16:57:23 testing accuracy after iteration 5100: 51.33%
+16:57:27 testing accuracy after iteration 5200: 49.84%
+
+16:57:30 train loss after iteration 5250: 30.35%
+
+16:57:32 testing accuracy after iteration 5300: 51.87%
+16:57:35 testing accuracy after iteration 5400: 51.31%
+16:57:40 testing accuracy after iteration 5500: 51.62%
+
+16:57:40 train loss after iteration 5500: 29.64%
+
+16:57:44 testing accuracy after iteration 5600: 51.12%
+16:57:47 testing accuracy after iteration 5700: 50.57%
+
+16:57:50 train loss after iteration 5750: 29.00%
+
+16:57:52 testing accuracy after iteration 5800: 50.71%
+16:57:55 testing accuracy after iteration 5900: 52.96%
+16:58:00 testing accuracy after iteration 6000: 52.30%
+
+16:58:00 train loss after iteration 6000: 28.12%
+
+16:58:03 testing accuracy after iteration 6100: 52.55%
+16:58:07 testing accuracy after iteration 6200: 53.41%
+
+16:58:10 train loss after iteration 6250: 27.55%
+
+16:58:12 testing accuracy after iteration 6300: 52.07%
+16:58:15 testing accuracy after iteration 6400: 51.31%
+16:58:20 testing accuracy after iteration 6500: 52.96%
+
+16:58:20 train loss after iteration 6500: 27.11%
+
+16:58:24 testing accuracy after iteration 6600: 52.38%
+16:58:27 testing accuracy after iteration 6700: 52.17%
+
+16:58:30 train loss after iteration 6750: 26.37%
+
+16:58:32 testing accuracy after iteration 6800: 52.11%
+16:58:35 testing accuracy after iteration 6900: 52.59%
+16:58:40 testing accuracy after iteration 7000: 51.81%
+
+16:58:40 train loss after iteration 7000: 25.65%
+
+16:58:44 testing accuracy after iteration 7100: 53.13%
+16:58:47 testing accuracy after iteration 7200: 53.10%
+
+16:58:50 train loss after iteration 7250: 25.14%
+
+16:58:52 testing accuracy after iteration 7300: 53.06%
+16:58:55 testing accuracy after iteration 7400: 52.75%
+16:59:08 testing accuracy after iteration 7500: 52.85%
+
+16:59:08 train loss after iteration 7500: 24.64%
+
+16:59:11 testing accuracy after iteration 7600: 52.29%
+16:59:14 testing accuracy after iteration 7700: 54.19%
+
+16:59:26 train loss after iteration 7750: 24.02%
+
+16:59:28 testing accuracy after iteration 7800: 53.48%
+16:59:31 testing accuracy after iteration 7900: 53.36%
+16:59:45 testing accuracy after iteration 8000: 52.75%
+
+16:59:45 train loss after iteration 8000: 23.65%
+
+16:59:48 testing accuracy after iteration 8100: 53.20%
+16:59:52 testing accuracy after iteration 8200: 53.30%
+
+17:00:04 train loss after iteration 8250: 23.40%
+
+17:00:06 testing accuracy after iteration 8300: 52.15%
+17:00:10 testing accuracy after iteration 8400: 53.40%
+17:00:22 testing accuracy after iteration 8500: 54.22%
+
+17:00:22 train loss after iteration 8500: 22.67%
+
+17:00:26 testing accuracy after iteration 8600: 53.98%
+17:00:29 testing accuracy after iteration 8700: 52.90%
+
+17:00:40 train loss after iteration 8750: 22.16%
+
+17:00:42 testing accuracy after iteration 8800: 53.13%
+17:00:46 testing accuracy after iteration 8900: 52.77%
+17:00:58 testing accuracy after iteration 9000: 54.72%
+
+17:00:58 train loss after iteration 9000: 21.82%
+
+17:01:01 testing accuracy after iteration 9100: 52.94%
+17:01:05 testing accuracy after iteration 9200: 53.58%
+
+17:01:16 train loss after iteration 9250: 21.11%
+
+17:01:18 testing accuracy after iteration 9300: 54.20%
+17:01:21 testing accuracy after iteration 9400: 53.39%
+17:01:34 testing accuracy after iteration 9500: 53.66%
+
+17:01:34 train loss after iteration 9500: 20.86%
+
+17:01:37 testing accuracy after iteration 9600: 54.12%
+17:01:41 testing accuracy after iteration 9700: 54.06%
+
+17:01:52 train loss after iteration 9750: 20.40%
+
+17:01:54 testing accuracy after iteration 9800: 53.92%
+17:01:58 testing accuracy after iteration 9900: 53.12%
+17:02:10 testing accuracy after iteration 10000: 54.42%
+
+17:02:10 train loss after iteration 10000: 20.01%
